@@ -37,7 +37,7 @@ public class Tanyafirstprogram {
 
             float aFloat = 1.1f;
             double aDouble = 1.2;
-            char aChar = 'c';
+
 
             //вычисления разных комбинаций типов данных
             System.out.println("aInt + aFloat = " + aInt + aFloat); //ответ приводится к следующему типу float
